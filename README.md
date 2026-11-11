@@ -6,4 +6,4 @@ If Google Colab, the command is:
 !pip install fitparse folium plotly numpy pandas
 !python fit_analyzer.py shinrin.fit
 
-Note replace shinrin.fit with your wanted fit file.
+Note replace shinrin.fit with fit file you want.
