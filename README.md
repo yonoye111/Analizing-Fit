@@ -7,3 +7,7 @@ If Google Colab, the command is:
 !python fit_analyzer.py shinrin.fit
 
 Note replace shinrin.fit with fit file you want.
+
+Some browser reject running the output html files, I checked using Chrome.
+It runs correctly.
+
